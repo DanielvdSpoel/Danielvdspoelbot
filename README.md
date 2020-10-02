@@ -1,2 +1,2 @@
 # Danielvdspoelbot
-A bot for Daniel
+INACTIVE: WILL BE REMOVED ON 1-1-2021
